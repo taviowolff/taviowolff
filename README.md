@@ -5,7 +5,7 @@
 - 🟦 Aprendendo CSS
 - 🟧 Aprendendo HTML
 - 🤖 Intenção de aprender programação para reconhecimento de doenças em plantas
-- 👁‍🗨 Atualemente aprendendo e ensinando Python
+- 👁‍🗨 Atualmente aprendendo e ensinando Python
 
 <div align="center">
   <a href="https://github.com/Taviowolff">
