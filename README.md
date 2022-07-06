@@ -1,4 +1,4 @@
-## Olá Me chamo Otávio Wolff
+## Olá me chamo Otávio Wolff
 - 🐱‍👤 23 anos
 - 🐍 Aprendendo Python
 - 🟨 Aprendendo JavaScript
