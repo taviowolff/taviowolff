@@ -4,7 +4,7 @@
 - 🟨 Aprendendo JavaScript
 - 🟦 Aprendendo CSS
 - 🟧 Aprendendo HTML
-- 🤖 Intenção de aprender programação para reconhecimento de doenças em plantas
+- 🤖 Aprendendo programação para reconhecimento de doenças em plantas
 - 👁‍🗨 Atualmente aprendendo e ensinando Python
 
 <div align="center">
