@@ -5,13 +5,6 @@
 - 🟦 Aprendendo CSS
 - 🟧 Aprendendo HTML
 - 🤖 Aprendendo programação para reconhecimento de doenças em plantas
-- 👁‍🗨 Atualmente aprendendo e ensinando Python
-
-<div align="center">
-  <a href="https://github.com/Taviowolff">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=taviowolff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taviowolff&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
