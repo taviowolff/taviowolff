@@ -1,6 +1,6 @@
 ## Olá me chamo Otávio Wolff 
-- sou estudante de Ciências Biológicas e amante da progração!
-- 🎂 24 anos
+- Estudante de Ciências Biológicas e amante da progração!
+- 🎂 25 anos
 - 🐍 Aprendendo Python
 - 🟨 Aprendendo JavaScript
 - 🟦 Aprendendo CSS
