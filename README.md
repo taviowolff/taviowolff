@@ -1,11 +1,11 @@
 ## Olá me chamo Otávio Wolff 
-- Estudante de Ciências Biológicas e amante da progração!
+- Estudante de Anílise e Desenvolvimento de Sistemas
 - 🎂 25 anos
 - 🐍 Aprendendo Python
 - 🟨 Aprendendo JavaScript
 - 🟦 Aprendendo CSS
 - 🟧 Aprendendo HTML
-- 🤖 Aprendendo programação para reconhecimento de doenças em plantas
+- 🤖 Aprendendo programação para automatização de serviços 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tavio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
