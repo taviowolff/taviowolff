@@ -1,5 +1,5 @@
 ## Olá me chamo Otávio Wolff 
-- Estudante de Anílise e Desenvolvimento de Sistemas
+- Estudante de Análise e Desenvolvimento de Sistemas
 - 🎂 25 anos
 - 🐍 Aprendendo Python
 - 🟨 Aprendendo JavaScript
