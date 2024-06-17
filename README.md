@@ -3,8 +3,7 @@
 - 🎂 25 anos
 - 🐍 Python
 - 🟨 Aprendendo JavaScript
-- 🟦 Aprendendo CSS
-- 🟧 Aprendendo HTML
+- 📁 Aprendendo SQL
 - 🤖 Aprendendo programação para automatização de serviços 
 
 <div style="display: inline_block"><br>
