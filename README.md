@@ -1,9 +1,9 @@
 ## Olá me chamo Otávio Wolff 
 - Estudante de Análise e Desenvolvimento de Sistemas
-- 🎂 25 anos
+- 🎂 26 anos
 - 🐍 Python
+- 📁 SQL
 - 🟨 Aprendendo JavaScript
-- 📁 Aprendendo SQL
 - 🤖 Aprendendo programação para automatização de serviços 
 
 <div style="display: inline_block"><br>
