@@ -51,7 +51,7 @@ Atuo no monitoramento, otimização e análise de ambientes de bancos de dados, 
 📘 Cursos de aperfeiçoamento:
 * Python POO, Automação e Análise de Dados
 * SQL para Analista de Dados
-* LGPD aplicada ao tratamento de dados (quando adicionar)
+* LGPD aplicada ao tratamento de dados
 
 ---
 
