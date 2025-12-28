@@ -7,7 +7,7 @@ Atuo no monitoramento, otimização e análise de ambientes de bancos de dados, 
 
 ## 🚀 O que estou construindo na minha carreira
 
-📌 **SQL & Data Engineering**
+📌 **SQL & Data Base Administration**
 
 * Administração e monitoramento de bases **SQL Server**
 * Otimização de queries, índices e estruturas internas
