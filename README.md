@@ -1,4 +1,4 @@
-# 🍓 Olá, me chamo **Otávio Wolff Buffon**
+# Olá, me chamo **Otávio Wolff Buffon**
 
 Sou estudante de **Ciência da Computação** e profissional em evolução constante na área de **Segurança de Dados**, com foco em *Banco de Dados SQL Server, Azure SQL e automação com Python*.
 Atuo no monitoramento, otimização e análise de ambientes de bancos de dados, incluindo rotinas de desempenho, auditoria e segurança, sempre alinhando minhas práticas aos princípios da **LGPD**.
